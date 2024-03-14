@@ -1,0 +1,4 @@
+pygetwindow
+obswebsocket
+python-dotenv
+Flask
